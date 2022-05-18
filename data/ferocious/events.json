@@ -1,0 +1,164 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "skool",
+		"player1": "3D_BF",
+		"player2": "garrett",
+		"player3": null,
+		"events": [
+			[
+				87378.6407766991,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playtime"
+					]
+				]
+			],
+			[
+				157281.553398058,
+				[
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"3D_BF_opposite"
+					],
+					[
+						"Change Character",
+						"dad",
+						"palooseMen"
+					]
+				]
+			],
+			[
+				241019.417475727,
+				[
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"garrett_future"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_garrett"
+					]
+				]
+			],
+			[
+				343689.320388347,
+				[
+					[
+						"Change Character",
+						"bf",
+						"3D_BF"
+					],
+					[
+						"Change Character",
+						"dad",
+						"wizard"
+					],
+					[
+						"camFlash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				429902.912621356,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mrMusic"
+					],
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"3D_BF_opposite"
+					]
+				]
+			],
+			[
+				581276.005547848,
+				[
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"dya"
+					]
+				]
+			],
+			[
+				651870.064953788,
+				[
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"garrett_angry"
+					],
+					[
+						"Change Character",
+						"bf",
+						"3D_BF"
+					]
+				]
+			],
+			[
+				822117.109075674,
+				[
+					[
+						"Change Character",
+						"dad",
+						"garrett_car"
+					],
+					[
+						"camFlash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"3D_BF_opposite"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 206,
+		"arrowSkin": "3dnote",
+		"needsVoices": true,
+		"song": "ferocious"
+	}
+}
