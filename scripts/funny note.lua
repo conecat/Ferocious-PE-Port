@@ -1,43 +1,43 @@
 function goodNoteHit(id, direction, noteType, isSustainNote)
     if direction == 0 then
-noteTweenY('a', 4, 590, 0.1, 'circOut')
+noteTweenY('a', 4, defaultPlayerStrumY0 + 20, 0.1, 'circOut')
 runTimer('help', 0.1, 1)
     end
 
 if direction == 1 then
-noteTweenY('a2', 5, 590, 0.1, 'circOut')
+noteTweenY('a2', 5, defaultPlayerStrumY0 + 20, 0.1, 'circOut')
 runTimer('help2', 0.1, 1)
 end
 
 if direction == 2 then
-noteTweenY('a3', 6, 590, 0.1, 'circOut')
+noteTweenY('a3', 6, defaultPlayerStrumY0 + 20, 0.1, 'circOut')
 runTimer('help3', 0.1, 1)
 end
 
 if direction == 3 then
-noteTweenY('a4', 7, 590, 0.1, 'circOut')
+noteTweenY('a4', 7, defaultPlayerStrumY0 + 20, 0.1, 'circOut')
 runTimer('help4', 0.1, 1)
 end
 end
 
 function opponentNoteHit(id, direction, noteType, isSustainNote)
     if direction == 0 then
-noteTweenY('a5', 0, 590, 0.1, 'circOut')
+noteTweenY('a5', 0, defaultPlayerStrumY0 + 10, 0.1, 'circOut')
 runTimer('help5', 0.1, 1)
     end
 
 if direction == 1 then
-noteTweenY('a6', 1, 590, 0.1, 'circOut')
+noteTweenY('a6', 1, defaultPlayerStrumY0 + 10, 0.1, 'circOut')
 runTimer('help6', 0.1, 1)
 end
 
 if direction == 2 then
-noteTweenY('a7', 2, 590, 0.1, 'circOut')
+noteTweenY('a7', 2, defaultPlayerStrumY0 + 10, 0.1, 'circOut')
 runTimer('help7', 0.1, 1)
 end
 
 if direction == 3 then
-noteTweenY('a8', 3, 590, 0.1, 'circOut')
+noteTweenY('a8', 3, defaultPlayerStrumY0 + 10, 0.1, 'circOut')
 runTimer('help8', 0.1, 1)
 end
 end
